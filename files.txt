@@ -1,0 +1,4 @@
+Franks,12.5
+Marieu,40.2
+Keylin,42.6
+Nicole,25.9
